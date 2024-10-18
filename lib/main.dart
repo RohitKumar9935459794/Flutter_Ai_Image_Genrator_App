@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_midjourny_app/feature/prompt/ui/create_prompt_screen.dart';
 
+
 void main() {
   runApp(const MyApp());
 }
